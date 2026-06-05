@@ -1,0 +1,10 @@
+# Скриване на системните и кеш файлове на Obsidian
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/plugins/
+.obsidian/cache/
+
+# Скриване на папките на Visual Studio
+**/bin/
+**/obj/
+.vs/
