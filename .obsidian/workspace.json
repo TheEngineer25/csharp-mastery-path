@@ -177,11 +177,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ab338d0c336f940",
+  "active": "5e8e2cdb97e7bd46",
   "lastOpenFiles": [
+    "C# Fundamentals/Assets/5.png",
+    "C# Fundamentals/Assets/2026-06-05 11.42.14 www.udemy.com 8627677c9972.png",
+    "C# Fundamentals/Assets/4.png",
+    "C# Fundamentals/Assets/2026-06-05 11.40.29 www.udemy.com 9c487eb8d301.png",
+    "C# Fundamentals/Assets/3.png",
+    "C# Fundamentals/Assets/2026-06-05 11.39.03 www.udemy.com 7883b177ab7a.png",
+    "C# Fundamentals/Assets/2.png",
+    "C# Fundamentals/Assets/2026-06-05 11.36.44 www.udemy.com ce33010ed5ae.png",
+    "C# Fundamentals/Assets/1.png",
+    "C# Fundamentals/Assets/2026-06-05 11.35.00 www.udemy.com e98214fe8180.png",
     "C# Fundamentals/Lecture Notes/01. Първа програма.md"
   ]
 }
