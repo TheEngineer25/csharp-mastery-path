@@ -6,5 +6,12 @@ Console.WriteLine("[R]emove a TODO");
 Console.WriteLine("[E]xit");
 
 string userInput = "A";
+Console.WriteLine(userInput);
+
+userInput = "ABC";
+Console.WriteLine(userInput);
+
+int number;
+number = 7;
 
 Console.ReadKey();
