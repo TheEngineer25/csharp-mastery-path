@@ -1,3 +1,3 @@
-﻿Console.WriteLinee("Hello!");
+﻿Console.WriteLine("Hello!");
 
 Console.ReadKey();
