@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d32d07007f7a1bf8",
+            "id": "cc184324c272226a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C# Fundamentals/Lecture Notes/03. Най-важното умение на всеки програмист.md",
+                "file": "C# Fundamentals/Lecture Notes/04. Променливи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Най-важното умение на всеки програмист"
+              "title": "04. Променливи"
             }
           }
         ]
@@ -182,21 +182,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d32d07007f7a1bf8",
+  "active": "cc184324c272226a",
   "lastOpenFiles": [
-    "C# Fundamentals/Assets/29.png",
-    "C# Fundamentals/Assets/2026-06-05 14.36.06 www.udemy.com 509a9ea86a77.png",
-    "C# Fundamentals/Assets/28.png",
-    "C# Fundamentals/Assets/2026-06-05 14.34.29 www.udemy.com df1a3879eee8.png",
-    "C# Fundamentals/Assets/27.png",
-    "C# Fundamentals/Assets/2026-06-05 14.33.11 www.udemy.com 21a56b4006e4.png",
-    "C# Fundamentals/Assets/26.png",
-    "C# Fundamentals/Assets/2026-06-05 14.32.22 www.udemy.com 0a853cdd6a90.png",
-    "C# Fundamentals/Assets/25.png",
-    "C# Fundamentals/Assets/24.png",
-    "C# Fundamentals/Assets/23.png",
-    "C# Fundamentals/Lecture Notes/02. От текстов файл към изпълнима програма.md",
+    "C# Fundamentals/Assets/34.png",
+    "C# Fundamentals/Assets/2026-06-05 15.16.58 www.udemy.com 1d131608d6a3.png",
+    "C# Fundamentals/Assets/33.png",
+    "C# Fundamentals/Assets/2026-06-05 15.12.35 www.udemy.com b5fa7232841d.png",
     "C# Fundamentals/Lecture Notes/03. Най-важното умение на всеки програмист.md",
+    "C# Fundamentals/Lecture Notes/01. Първа програма.md",
+    "C# Fundamentals/Lecture Notes/04. Променливи.md",
+    "C# Fundamentals/Assets/32.png",
+    "C# Fundamentals/Assets/2026-06-05 15.06.21 www.udemy.com 30fe0e70a2c7.png",
+    "C# Fundamentals/Assets/31.png",
+    "C# Fundamentals/Assets/2026-06-05 15.04.06 www.udemy.com 421d878e2e4e.png",
+    "C# Fundamentals/Assets/30.png",
+    "C# Fundamentals/Assets/2026-06-05 15.01.11 www.udemy.com 3445e2c6a99b.png",
+    "C# Fundamentals/Assets/29.png",
+    "C# Fundamentals/Lecture Notes/02. От текстов файл към изпълнима програма.md",
     "C# Fundamentals/Practice Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.pdb",
     "C# Fundamentals/Practice Code/TodoList/TodoList/obj/Debug/net10.0/ref/TodoList.dll",
     "C# Fundamentals/Practice Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.dll",
@@ -206,7 +208,6 @@
     "C# Fundamentals/Practice Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.exe",
     "C# Fundamentals/Practice Code/TodoList/TodoList/obj/Debug/net10.0/refint/TodoList.dll",
     "C# Fundamentals/Practice Code/TodoList/TodoList/obj/Debug/net10.0/TodoList.pdb",
-    "C# Fundamentals/Practice Code/TodoList/TodoList/obj/Debug/net10.0/TodoList.dll",
-    "C# Fundamentals/Lecture Notes/01. Първа програма.md"
+    "C# Fundamentals/Practice Code/TodoList/TodoList/obj/Debug/net10.0/TodoList.dll"
   ]
 }
