@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d5e20bb21728432",
+            "id": "14c461e90e76f9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/06. Използване на системни директиви.md",
+                "file": "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/07. Използване на променливи - string.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06. Използване на системни директиви"
+              "title": "07. Използване на променливи - string"
             }
           }
         ]
@@ -182,36 +182,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d5e20bb21728432",
+  "active": "14c461e90e76f9e2",
   "lastOpenFiles": [
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/05. Топ-ниво изявления - документация.md",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/6.png",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/06. Използване на системни директиви.md",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/7.png",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/01. Първа програма и Hello World.md",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.assets.cache",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/TopLevelStatements.csproj.nuget.dgspec.json",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/TopLevelStatements.csproj.nuget.g.props",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.AssemblyInfo.cs",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.AssemblyInfoInputs.cache",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.GlobalUsings.g.cs",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.GeneratedMSBuildEditorConfig.editorconfig",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/refint",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/ref",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/07. Използване на променливи - string.md",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/6.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/5.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/4.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/3.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/2.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/1.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/7.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets",
+    "Assets",
+    "Нова папка",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/8.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/06. Използване на системни директиви.md",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.csproj.FileListAbsolute.txt",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.pdb",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/ref/UsingVariablesStrings.dll",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.dll",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.runtimeconfig.json",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.genruntimeconfig.cache",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.deps.json",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/7.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/6.png",
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/05. Топ-ниво изявления - документация.md",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/04. Едноредови коментари.md",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/03. Разбиране на рамки и компилиране.md",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/02. История на езика.md",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/5.png",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/4.png",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/3.png",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/2.png",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/1.png",
     "Assets.md",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/2026-06-08 13.12.29 www.udemy.com d0a47c008b8a.png",
     "C# Fundamentals/Lecture Notes/04. Променливи.md",
-    "C# Fundamentals/Assets/39.png",
-    "C# Fundamentals/Assets/2026-06-05 15.52.06 www.udemy.com e99102fe25bd.png",
     "C# Fundamentals/Lecture Notes/03. Най-важното умение на всеки програмист.md",
     "C# Fundamentals/Lecture Notes/01. Първа програма.md",
     "C# Fundamentals/Lecture Notes/02. От текстов файл към изпълнима програма.md"
