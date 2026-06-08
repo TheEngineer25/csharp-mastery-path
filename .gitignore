@@ -1,4 +1,5 @@
 # Скриване на системните и кеш файлове на Obsidian
+.obsidian
 .obsidian/workspace.json
 .obsidian/graph.json
 .obsidian/plugins/
