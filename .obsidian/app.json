@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "01. Introduction, overview of Visual Studio, datatypes and variables/Assets",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "shortest"
 }
