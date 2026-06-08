@@ -14,4 +14,7 @@ Console.WriteLine(userInput);
 int number;
 number = 7;
 
+int a = 1, b = 2, c = 3;
+string name, lastName;
+
 Console.ReadKey();
