@@ -1,9 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
-  "attachmentFolderPath": "01. C# fundamentals/Assets",
-  "newLinkFormat": "shortest",
-  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Assets",
+  "newLinkFormat": "relative",
+  "promptDelete": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "01. C# fundamentals/Lecture Notes"
 }

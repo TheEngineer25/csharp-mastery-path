@@ -182,9 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ab338d0c336f940",
+  "active": "14c461e90e76f9e2",
   "lastOpenFiles": [
+    "Assets/Pasted image 20260608163930.png",
+    "README.md",
     "01. C# fundamentals/Lecture Notes/01. Първа програма.md",
+    "Assets",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/06. Използване на системни директиви.md",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/05. Топ-ниво изявления - документация.md",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/04. Едноредови коментари.md",
@@ -200,7 +203,6 @@
     "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/1.png",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Assets/7.png",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Assets",
-    "Assets",
     "Нова папка",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/8.png",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Code/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.csproj.FileListAbsolute.txt",
