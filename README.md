@@ -4,4 +4,4 @@
 
 ## 🗺️ Пътна карта (Roadmap) & Напредък
 
-- [x] **Етап 1: C# Fudamentals** — Променливи, проверки, цикли. 
+- [x] **Етап 1: Introduction, overview of Visual Studio, Datatypes and variables** 
