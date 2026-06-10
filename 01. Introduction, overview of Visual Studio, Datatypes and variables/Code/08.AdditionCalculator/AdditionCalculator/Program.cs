@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Enter something!");
 
 string userInput = Console.ReadLine();
 
