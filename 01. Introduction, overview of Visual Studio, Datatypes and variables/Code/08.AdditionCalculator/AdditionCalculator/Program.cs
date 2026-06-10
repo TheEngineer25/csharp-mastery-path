@@ -1,7 +1,0 @@
-﻿Console.WriteLine("Enter something!");
-
-string userInput = Console.ReadLine();
-
-Console.WriteLine("You entered " + userInput);
-
-Console.ReadKey();

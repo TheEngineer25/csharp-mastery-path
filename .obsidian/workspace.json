@@ -11,14 +11,10 @@
             "id": "2f4fca572e12683b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/11. Преглед от високо ниво на променливи и типове данни.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "11. Преглед от високо ниво на променливи и типове данни"
+              "title": "New tab"
             }
           }
         ]
@@ -184,8 +180,8 @@
   },
   "active": "2f4fca572e12683b",
   "lastOpenFiles": [
-    "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/10. Бърз UI преглед, структура на папките и разлика между грешки при изпълнение и грешки при компилиране.md",
     "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/11. Преглед от високо ниво на променливи и типове данни.md",
+    "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/10. Бърз UI преглед, структура на папките и разлика между грешки при изпълнение и грешки при компилиране.md",
     "Assets/25.png",
     "Assets/24.png",
     "Assets/23.png",
