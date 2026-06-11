@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, Denis!");
 
 // this is another comment
+
+// See https://aka.ms/new-console-template for more information

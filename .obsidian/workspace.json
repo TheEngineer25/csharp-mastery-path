@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "645631c2135ef5fa",
+            "id": "0afb1968785c5e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Introduction/Lecture Notes/05. Топ-ниво изявления - документация.md",
+                "file": "01. Introduction/Lecture Notes/06. Системи директиви.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Топ-ниво изявления - документация"
+              "title": "06. Системи директиви"
             }
           }
         ]
@@ -194,22 +194,24 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "3ab338d0c336f940",
+  "active": "0afb1968785c5e35",
   "lastOpenFiles": [
+    "01. Introduction/Lecture Notes/05. Топ-ниво изявления - документация.md",
+    "01. Introduction/Lecture Notes/06. Системи директиви.md",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.assets.cache",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/project.nuget.cache",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/project.assets.json",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig",
+    "01. Introduction/Code/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GlobalUsings.g.cs",
+    "Assets/8.png",
     "Assets/7.png",
     "01. Introduction/Lecture Notes/04. Единични коментари.md",
-    "01. Introduction/Lecture Notes/05. Топ-ниво изявления - документация.md",
     "01. Introduction/Lecture Notes/01. Първа програма и Hello World.md",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/Debug/net10.0/04. SingleLineComments.assets.cache",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/04. SingleLineComments.csproj.nuget.dgspec.json",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/project.nuget.cache",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/project.assets.json",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/04. SingleLineComments.csproj.nuget.g.targets",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/04. SingleLineComments.csproj.nuget.g.props",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/Debug/net10.0/04. SingleLineComments.AssemblyInfo.cs",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/Debug/net10.0/04. SingleLineComments.AssemblyInfoInputs.cache",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/Debug/net10.0/04. SingleLineComments.GeneratedMSBuildEditorConfig.editorconfig",
-    "01. Introduction/Code/04. SingleLineComments/04. SingleLineComments/obj/Debug/net10.0/04. SingleLineComments.GlobalUsings.g.cs",
     "01. Introduction/Lecture Notes/03. Разбиране на рамка и компилиране.md",
     "01. Introduction/Lecture Notes/02. История на езика.md",
     "Assets/6.png",
@@ -221,8 +223,6 @@
     "01. Първа програма.md",
     "Assets/13.png",
     "Assets/12.png",
-    "Assets/11.png",
-    "Assets/2026-06-10 16.00.19 www.udemy.com f7bd3835ea62.png",
     "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/11. Преглед от високо ниво на променливи и типове данни.md",
     "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/10. Бърз UI преглед, структура на папките и разлика между грешки при изпълнение и грешки при компилиране.md",
     "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/07. Използване на променливи - string.md",
