@@ -3,7 +3,7 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "Assets",
   "newLinkFormat": "relative",
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "01. C# fundamentals/Lecture Notes"
+  "newFileFolderPath": "01. Introduction/Lecture Notes"
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e77e7bf2609a5a7",
+        "id": "111e15e1f9f4ee06",
         "type": "tabs",
         "children": [
           {
-            "id": "2f4fca572e12683b",
+            "id": "2996ca718f2bcb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Първа програма.md",
+                "file": "01. Introduction/Lecture Notes/02. История на езика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Първа програма"
+              "title": "02. История на езика"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,30 +194,31 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "3ab338d0c336f940",
+  "active": "2996ca718f2bcb8a",
   "lastOpenFiles": [
+    "01. Introduction/Lecture Notes/01. Първа програма и Hello World.md",
+    "01. Introduction/Lecture Notes/02. История на езика.md",
+    "Assets/6.png",
+    "Assets/5.png",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/obj/Debug/net10.0/01. HelloWorld.csproj.FileListAbsolute.txt",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/bin/Debug/net10.0/01. HelloWorld.pdb",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/obj/Debug/net10.0/ref/01. HelloWorld.dll",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/bin/Debug/net10.0/01. HelloWorld.dll",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/bin/Debug/net10.0/01. HelloWorld.runtimeconfig.json",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/obj/Debug/net10.0/01. HelloWorld.genruntimeconfig.cache",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/bin/Debug/net10.0/01. HelloWorld.deps.json",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/bin/Debug/net10.0/01. HelloWorld.exe",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/obj/Debug/net10.0/apphost.exe",
+    "01. Introduction/Code/01. HelloWorld/01. HelloWorld/obj/Debug/net10.0/01. HelloWorld.csproj.BuildWithSkipAnalyzers",
+    "Assets/4.png",
+    "Assets/3.png",
+    "Assets/2.png",
+    "Assets/1.png",
+    "01. Първа програма.md",
     "Assets/13.png",
     "Assets/12.png",
-    "01. C# fundamentals/Code/TodoList/TodoList/obj/Debug/net10.0/TodoList.csproj.FileListAbsolute.txt",
-    "01. C# fundamentals/Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.pdb",
-    "01. C# fundamentals/Code/TodoList/TodoList/obj/Debug/net10.0/ref/TodoList.dll",
-    "01. C# fundamentals/Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.dll",
-    "01. C# fundamentals/Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.runtimeconfig.json",
-    "01. C# fundamentals/Code/TodoList/TodoList/obj/Debug/net10.0/TodoList.genruntimeconfig.cache",
-    "01. C# fundamentals/Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.deps.json",
-    "01. C# fundamentals/Code/TodoList/TodoList/bin/Debug/net10.0/TodoList.exe",
-    "01. C# fundamentals/Code/TodoList/TodoList/obj/Debug/net10.0/apphost.exe",
-    "01. C# fundamentals/Code/TodoList/TodoList/obj/Debug/net10.0/TodoList.csproj.BuildWithSkipAnalyzers",
     "Assets/11.png",
     "Assets/2026-06-10 16.00.19 www.udemy.com f7bd3835ea62.png",
-    "Assets/10.png",
-    "Assets/2026-06-10 15.59.27 www.udemy.com fe9aa8ab297b.png",
-    "Assets/9.png",
-    "Assets/2026-06-10 15.57.08 www.udemy.com a12395c8f2ff.png",
-    "Assets/8.png",
-    "Assets/2026-06-10 15.56.00 www.udemy.com 157ad94f2955.png",
-    "Assets/7.png",
-    "01. Първа програма.md",
     "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/11. Преглед от високо ниво на променливи и типове данни.md",
     "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/10. Бърз UI преглед, структура на папките и разлика между грешки при изпълнение и грешки при компилиране.md",
     "01. Introduction, overview of Visual Studio, Datatypes and variables/Lecture Notes/07. Използване на променливи - string.md",
@@ -239,7 +241,6 @@
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/03. Разбиране на рамки и компилиране.md",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/01. Първа програма и Hello World.md",
     "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/02. История на езика.md",
-    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/07. Използване на променливи - string.md",
-    "Assets.md"
+    "01. Introduction, overview of Visual Studio, datatypes and variables/Lecture Notes/07. Използване на променливи - string.md"
   ]
 }
