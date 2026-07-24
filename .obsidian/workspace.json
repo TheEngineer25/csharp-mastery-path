@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/История на езика.md",
+                "file": "Лекции/Ден 1/2. История на C#/02. История на езика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "История на езика"
+              "title": "02. История на езика"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/История на езика.md",
+                "file": "Лекции/Ден 1/2. История на C#/02. История на езика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for История на езика"
+              "title": "Backlinks for 02. История на езика"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/История на езика.md",
+                "file": "Лекции/Ден 1/2. История на C#/02. История на езика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from История на езика"
+              "title": "Outgoing links from 02. История на езика"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/История на езика.md",
+                "file": "Лекции/Ден 1/2. История на C#/02. История на езика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of История на езика"
+              "title": "Outline of 02. История на езика"
             }
           }
         ]
@@ -186,9 +186,13 @@
   },
   "active": "02de3cfadacb63cd",
   "lastOpenFiles": [
+    "Лекции/Ден 1/2. История на C#/02. История на езика.md",
+    "Лекции/История на езика.md",
+    "Лекции/Ден 1/2. История на C#/История на езика.md",
+    "Лекции/2",
+    "Лекции/Нова папка",
     "Нов Text Document.txt",
     "Untitled.md",
-    "Лекции/История на езика.md",
     "Лекции/Ден 1/01. Създаване на първи проект и Hello World/01. Създаване на първи проект и Hello World.md",
     "Лекции/Ден 1/2. История на C#",
     "Лекции/Ден 1/Нова папка",
@@ -199,9 +203,6 @@
     "Лекции/Ден 1/01. Създаване на първи проект и Hello World/Код/HelloWorld/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll",
     "Лекции/Ден 1/01. Създаване на първи проект и Hello World/Код/HelloWorld/HelloWorld/bin/Debug/net10.0/HelloWorld.dll",
     "Лекции/Ден 1/01. Създаване на първи проект и Hello World/Код/HelloWorld/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json",
-    "Лекции/Ден 1/01. Създаване на първи проект и Hello World/Код/HelloWorld/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache",
-    "Лекции/Ден 1/01. Създаване на първи проект и Hello World/Код/HelloWorld/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json",
-    "Лекции/Ден 1/01. Създаване на първи проект и Hello World/Код/HelloWorld/HelloWorld/bin/Debug/net10.0/HelloWorld.exe",
     "Изображения/4.png",
     "Изображения/3.png",
     "Лекции/01. Създаване на първи проект и Hello World.md",
