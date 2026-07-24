@@ -1,0 +1,9 @@
+{
+  "openBehavior": "new",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Лекции",
+  "attachmentFolderPath": "Изображения",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
+}
