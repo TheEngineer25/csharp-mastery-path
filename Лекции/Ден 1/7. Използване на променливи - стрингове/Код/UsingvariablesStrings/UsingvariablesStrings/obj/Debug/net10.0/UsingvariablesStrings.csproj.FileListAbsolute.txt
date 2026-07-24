@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\bin\Debug\net10.0\UsingvariablesStrings.exe
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\bin\Debug\net10.0\UsingvariablesStrings.deps.json
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\bin\Debug\net10.0\UsingvariablesStrings.runtimeconfig.json
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\bin\Debug\net10.0\UsingvariablesStrings.dll
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\bin\Debug\net10.0\UsingvariablesStrings.pdb
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.sourcelink.json
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.dll
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\refint\UsingvariablesStrings.dll
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.pdb
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\UsingvariablesStrings.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 1\7. Използване на променливи - стрингове\Код\UsingvariablesStrings\UsingvariablesStrings\obj\Debug\net10.0\ref\UsingvariablesStrings.dll
