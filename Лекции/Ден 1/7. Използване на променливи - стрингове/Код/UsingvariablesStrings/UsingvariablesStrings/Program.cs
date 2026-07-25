@@ -9,3 +9,6 @@ Console.WriteLine(myFriendsName);
 
 myFriendsName = "George";
 Console.WriteLine(myFriendsName);
+
+string myFriendsName2 = "Viktor";
+Console.WriteLine(myFriendsName2);

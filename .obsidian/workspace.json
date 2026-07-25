@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a1c1f4c65723471",
+        "id": "d1dd9ae94961a81c",
         "type": "tabs",
         "children": [
           {
-            "id": "e60c468bb4c60015",
+            "id": "f3f07bbddeb604cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Ден 1/7. Използване на променливи - стрингове/07. Използване на променливи - стрингове.md",
+                "file": "Лекции/1. Преглед от високо ниво на променливи и типове данни.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. Използване на променливи - стрингове"
+              "title": "1. Преглед от високо ниво на променливи и типове данни"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.5
   },
   "right": {
     "id": "6845f1f4f5988c44",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/Ден 1/7. Използване на променливи - стрингове/07. Използване на променливи - стрингове.md",
+                "file": "Лекции/Ден 1/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 07. Използване на променливи - стрингове"
+              "title": "Backlinks for 10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/Ден 1/7. Използване на променливи - стрингове/07. Използване на променливи - стрингове.md",
+                "file": "Лекции/Ден 1/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 07. Използване на променливи - стрингове"
+              "title": "Outgoing links from 10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/Ден 1/7. Използване на променливи - стрингове/07. Използване на променливи - стрингове.md",
+                "file": "Лекции/Ден 1/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 07. Използване на променливи - стрингове"
+              "title": "Outline of 10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error"
             }
           }
         ]
@@ -184,40 +184,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c94017be5107762",
+  "active": "f3f07bbddeb604cc",
   "lastOpenFiles": [
-    "Изображения/11.png",
-    "Изображения/10.png",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/obj/Debug/net10.0/UsingvariablesStrings.csproj.FileListAbsolute.txt",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/bin/Debug/net10.0/UsingvariablesStrings.pdb",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/obj/Debug/net10.0/ref/UsingvariablesStrings.dll",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/bin/Debug/net10.0/UsingvariablesStrings.dll",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/bin/Debug/net10.0/UsingvariablesStrings.runtimeconfig.json",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/obj/Debug/net10.0/UsingvariablesStrings.genruntimeconfig.cache",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/bin/Debug/net10.0/UsingvariablesStrings.deps.json",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/bin/Debug/net10.0/UsingvariablesStrings.exe",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/obj/Debug/net10.0/apphost.exe",
-    "Лекции/Ден 1/7. Използване на променливи - стрингове/Код/UsingvariablesStrings/UsingvariablesStrings/obj/Debug/net10.0/UsingvariablesStrings.csproj.BuildWithSkipAnalyzers",
-    "Лекции/Ден 1/4. Единични коментари/04. Единични коментари.md",
+    "Лекции/1. Преглед от високо ниво на променливи и типове данни.md",
+    "Лекции/Ден 2/1. Преглед от високо ниво на променливи и типове данни",
+    "Лекции/Ден 2/Нова папка",
+    "Лекции/Ден 2",
+    "Лекции/Нова папка",
+    "Лекции/Ден 1/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error.md",
+    "Изображения/24.png",
+    "Изображения/23.png",
+    "Изображения/22.png",
+    "Изображения/21.png",
+    "Изображения/20.png",
+    "Изображения/19.png",
+    "Изображения/18.png",
+    "Лекции/Ден 1/9. Поемане на контрол над конзолата/09. Поемане на контрол над конзолата.md",
+    "Лекции/Ден 1/10. Бърз UI преглед, структура на папките и разбиране на разликата между  грешка при компилиране и runtime error",
+    "Лекции/Ден 1/Нова папка",
+    "Лекции/Ден 1/8. Разбиране на потребителски вход и тип данни стринг/08. Разбиране на потребителски вход и тип данни стринг.md",
+    "Изображения/17.png",
+    "Изображения/16.png",
+    "Лекции/Ден 1/9. Поемане на контрол над конзолата",
+    "Изображения/15.png",
+    "Проекти/1. AdditionCalculator/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.csproj.FileListAbsolute.txt",
+    "Проекти/1. AdditionCalculator/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.pdb",
+    "Проекти/1. AdditionCalculator/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/ref/AdditionCalculator.dll",
     "Лекции/Ден 1/7. Използване на променливи - стрингове/07. Използване на променливи - стрингове.md",
+    "Лекции/Ден 1/4. Единични коментари/04. Единични коментари.md",
     "Лекции/Ден 1/6. Системни директиви/06. Системни директиви.md",
-    "Изображения/9.png",
     "Лекции/Ден 1/5. Топ-ниво изявления - документация/05. Топ-ниво изявления - документация.md",
-    "Изображения/8.png",
-    "Изображения/7.png",
     "Лекции/Ден 1/01. Създаване на първи проект и Hello World/01. Създаване на първи проект и Hello World.md",
     "Лекции/Ден 1/3. Разбиране на рамки и компилиране/03. Разбиране на рамки и компилиране.md",
     "Лекции/Ден 1/2. История на C#/02. История на езика.md",
     "Лекции/История на езика.md",
     "Лекции/Ден 1/2. История на C#/История на езика.md",
     "Untitled.md",
-    "Изображения/6.png",
-    "Изображения/5.png",
-    "Изображения/4.png",
-    "Изображения/3.png",
     "Лекции/01. Създаване на първи проект и Hello World.md",
-    "Лекции/Ден 1/01. Създаване на първи проект и Hello World.md",
-    "Изображения/2.png",
-    "Изображения/1.png"
+    "Лекции/Ден 1/01. Създаване на първи проект и Hello World.md"
   ]
 }
