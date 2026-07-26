@@ -184,8 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "172acdbc4f67fd5f",
+  "active": "8c94017be5107762",
   "lastOpenFiles": [
+    "Изображения/29.png",
+    "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.csproj.FileListAbsolute.txt",
+    "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.sourcelink.json",
+    "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.csproj.CoreCompileInputs.cache",
+    "Изображения/28.png",
     "Лекции/Ден 1/7. Използване на променливи - стрингове/07. Използване на променливи - стрингове.md",
     "Лекции/Ден 3/1. Преглед на типове данни/01. Преглед на типове данни.md",
     "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.assets.cache",
@@ -195,9 +200,6 @@
     "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/DatatypesOverview.csproj.nuget.g.targets",
     "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/DatatypesOverview.csproj.nuget.g.props",
     "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.AssemblyInfo.cs",
-    "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.AssemblyInfoInputs.cache",
-    "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.GeneratedMSBuildEditorConfig.editorconfig",
-    "Лекции/Ден 3/1. Преглед на типове данни/Код/DatatypesOverview/DatatypesOverview/obj/Debug/net10.0/DatatypesOverview.GlobalUsings.g.cs",
     "Лекции/Untitled.md",
     "Лекции/Ден 2/3. Конвенции за именуване/03. Конвенции за именуване.md",
     "Лекции/Ден 2/2. Стандарти за кодиране/02. Стандарти за кодиране.md",
@@ -212,7 +214,6 @@
     "Изображения/21.png",
     "Изображения/20.png",
     "Изображения/19.png",
-    "Изображения/18.png",
     "Лекции/Ден 1/9. Поемане на контрол над конзолата/09. Поемане на контрол над конзолата.md",
     "Лекции/Ден 1/8. Разбиране на потребителски вход и тип данни стринг/08. Разбиране на потребителски вход и тип данни стринг.md",
     "Лекции/Ден 1/4. Единични коментари/04. Единични коментари.md",

@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 3\1. Преглед на типове данни\Код\DatatypesOverview\DatatypesOverview\obj\Debug\net10.0\DatatypesOverview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 3\1. Преглед на типове данни\Код\DatatypesOverview\DatatypesOverview\obj\Debug\net10.0\DatatypesOverview.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 3\1. Преглед на типове данни\Код\DatatypesOverview\DatatypesOverview\obj\Debug\net10.0\DatatypesOverview.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 3\1. Преглед на типове данни\Код\DatatypesOverview\DatatypesOverview\obj\Debug\net10.0\DatatypesOverview.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Лекции\Ден 3\1. Преглед на типове данни\Код\DatatypesOverview\DatatypesOverview\obj\Debug\net10.0\DatatypesOverview.sourcelink.json
