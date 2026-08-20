@@ -3,5 +3,6 @@
   "newFileFolderPath": "Lectures/Day 1",
   "attachmentFolderPath": "Assets",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
