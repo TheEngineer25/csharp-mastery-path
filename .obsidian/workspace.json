@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "631ee9746defdcc8",
+        "id": "c0540784b01c32f2",
         "type": "tabs",
         "children": [
           {
-            "id": "cf442a8881091f59",
+            "id": "71cbcfd02b16eb40",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,8 +188,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "adc23ca2cb0ea422",
+  "active": "71cbcfd02b16eb40",
   "lastOpenFiles": [
+    "Нов Text Document.txt",
+    "Untitled.md",
     "Assets/6.png",
     "Assets/5.png",
     "Assets/4.png",
@@ -215,7 +217,6 @@
     "Изображения/5.png",
     "Изображения/4.png",
     "Изображения/3.png",
-    "Изображения/2.png",
     "Лекции/01. Създаване на първи проект и Hello World.md"
   ]
 }
