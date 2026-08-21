@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\bin\Debug\net10.0\UsingVariablesStrings.exe
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\bin\Debug\net10.0\UsingVariablesStrings.deps.json
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\bin\Debug\net10.0\UsingVariablesStrings.runtimeconfig.json
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\bin\Debug\net10.0\UsingVariablesStrings.dll
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\bin\Debug\net10.0\UsingVariablesStrings.pdb
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.sourcelink.json
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.dll
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\refint\UsingVariablesStrings.dll
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.pdb
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\UsingVariablesStrings.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\csharp-mastery-path\Lectures\Day 2\7. Изпозлване на променливи - стрингове\Код\UsingVariablesStrings\UsingVariablesStrings\obj\Debug\net10.0\ref\UsingVariablesStrings.dll

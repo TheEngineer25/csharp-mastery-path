@@ -192,20 +192,22 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d7e5774bdbafb6b5",
+  "active": "adc23ca2cb0ea422",
   "lastOpenFiles": [
+    "Assets/10.png",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/icmgcrdp.n1b~",
+    "Assets/9.png",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.csproj.FileListAbsolute.txt",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.pdb",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/ref/UsingVariablesStrings.dll",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.dll",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.runtimeconfig.json",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.genruntimeconfig.cache",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.deps.json",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/bin/Debug/net10.0/UsingVariablesStrings.exe",
+    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/apphost.exe",
     "Lectures/Day 1/1. Създаване на първи проект и Hello World/Лекция/01. Създаване на първи проект и Hello World.md",
     "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Лекция/07. Използване на променливи - стрингове.md",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.assets.cache",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/UsingVariablesStrings.csproj.nuget.dgspec.json",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/project.nuget.cache",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/project.assets.json",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/UsingVariablesStrings.csproj.nuget.g.targets",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/UsingVariablesStrings.csproj.nuget.g.props",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.AssemblyInfo.cs",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.AssemblyInfoInputs.cache",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.GeneratedMSBuildEditorConfig.editorconfig",
-    "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Код/UsingVariablesStrings/UsingVariablesStrings/obj/Debug/net10.0/UsingVariablesStrings.GlobalUsings.g.cs",
     "Lectures/Day 2/6. Изпозлване на системни директиви/Лекция/06. Използване на системни директиви.md",
     "Assets/8.png",
     "Lectures/Day 1/5. Топ-ниво изявления - документация/Лекция/05. Топ-ниво изявления - документация.md",
@@ -223,7 +225,6 @@
     "Лекции/Ден 1/3. Разбиране на рамки и компилиране/Лекция/03. Разбиране на рамки и компилиране.md",
     "Лекции/Ден 1/2. История на C#/Лекция/02. История на езика.md",
     "Изображения/6.png",
-    "Изображения/5.png",
     "Лекции/01. Създаване на първи проект и Hello World.md"
   ]
 }
