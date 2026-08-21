@@ -11,10 +11,14 @@
             "id": "71cbcfd02b16eb40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Day 1/5. Топ-ниво изявления - документация/Лекция/05. Топ-ниво изявления - документация.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "05. Топ-ниво изявления - документация"
             }
           }
         ]
@@ -190,7 +194,19 @@
   },
   "active": "71cbcfd02b16eb40",
   "lastOpenFiles": [
-    "Нов Text Document.txt",
+    "Lectures/Day 1/1. Създаване на първи проект и Hello World/Лекция/01. Създаване на първи проект и Hello World.md",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Лекция/05. Топ-ниво изявления - документация.md",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.assets.cache",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/TopLevelStatements.csproj.nuget.dgspec.json",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/project.nuget.cache",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/project.assets.json",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/TopLevelStatements.csproj.nuget.g.targets",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/TopLevelStatements.csproj.nuget.g.props",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.AssemblyInfo.cs",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.AssemblyInfoInputs.cache",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.GeneratedMSBuildEditorConfig.editorconfig",
+    "Lectures/Day 1/5. Топ-ниво изявления - документация/Код/TopLevelStatements/TopLevelStatements/obj/Debug/net10.0/TopLevelStatements.GlobalUsings.g.cs",
+    "Assets/Pasted image 20260821140734.png",
     "Untitled.md",
     "Assets/6.png",
     "Assets/5.png",
@@ -198,25 +214,14 @@
     "Assets/3.png",
     "Assets/2.png",
     "Assets/1.png",
-    "Assets",
     "Лекции/Ден 1/4. Единични коментари/Лекция/04. Единични коментари.md",
     "Лекции/Ден 1/5. Топ-ниво изявления - документация/Лекция/05. Топ-ниво изявления - документация.md",
-    "Лекции/Ден 1/5. Топ-ниво изявления - документация/Лекция",
-    "Лекции/Ден 1/5. Топ-ниво изявления - документация/Нова папка",
-    "Лекции/Ден 1/5. Топ-ниво изявления - документация/Код",
-    "Лекции/Ден 1/5. Топ-ниво изявления - документация",
-    "Лекции/Ден 1/Нова папка",
     "Лекции/Ден 1/1. Създаване на първи проект и Hello World/Лекция/01. Създаване на първи проект и Hello World.md",
-    "Лекции/Ден 1/4. Единични коментари/Код/SIngleLineComments/SIngleLineComments/obj/Debug/net10.0/SIngleLineComments.assets.cache",
-    "Лекции/Ден 1/4. Единични коментари/Код/SIngleLineComments/SIngleLineComments/obj/SIngleLineComments.csproj.nuget.dgspec.json",
-    "Лекции/Ден 1/4. Единични коментари/Код/SIngleLineComments/SIngleLineComments/obj/project.nuget.cache",
-    "Лекции/Ден 1/4. Единични коментари/Код/SIngleLineComments/SIngleLineComments/obj/project.assets.json",
     "Лекции/Ден 1/3. Разбиране на рамки и компилиране/Лекция/03. Разбиране на рамки и компилиране.md",
     "Лекции/Ден 1/2. История на C#/Лекция/02. История на езика.md",
     "Изображения/6.png",
     "Изображения/5.png",
     "Изображения/4.png",
-    "Изображения/3.png",
     "Лекции/01. Създаване на първи проект и Hello World.md"
   ]
 }
