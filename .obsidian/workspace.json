@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dbe0ee9d7c07bd6a",
+        "id": "91aedf5150ca0ece",
         "type": "tabs",
         "children": [
           {
-            "id": "54687879b08d1379",
+            "id": "92c73a32d14b21bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Day 2/8. Разбиране на потребителски вход и тип данни стринг/Лекция/08. Разбиране на потребителски вход и тип данни стринг.md",
+                "file": "Lectures/Day 2/09. Поемане на контрол над конзолата.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08. Разбиране на потребителски вход и тип данни стринг"
+              "title": "09. Поемане на контрол над конзолата"
             }
           }
         ]
@@ -192,23 +192,25 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "adc23ca2cb0ea422",
+  "active": "92c73a32d14b21bc",
   "lastOpenFiles": [
+    "Lectures/Day 2/8. Разбиране на потребителски вход и тип данни стринг/Лекция/08. Разбиране на потребителски вход и тип данни стринг.md",
+    "Lectures/Day 2/09. Поемане на контрол над конзолата.md",
+    "Lectures/Day 2/9. Поемане на контрол над конзолата/Лекция",
+    "Lectures/Day 2/9. Поемане на контрол над конзолата",
+    "Lectures/Day 2/09. Поемане на контрол над конзолата/Лекция",
+    "Lectures/Day 2/09. Поемане на контрол над конзолата/Нова папка",
+    "Lectures/Day 2/09. Поемане на контрол над конзолата",
+    "Lectures/Day 2/Нова папка",
+    "Assets/14.png",
+    "Projects/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.csproj.FileListAbsolute.txt",
+    "Projects/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.pdb",
+    "Projects/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/ref/AdditionCalculator.dll",
+    "Projects/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.dll",
     "Assets/13.png",
     "Assets/12.png",
     "Lectures/Day 2/7. Изпозлване на променливи - стрингове/Лекция/07. Използване на променливи - стрингове.md",
-    "Lectures/Day 2/8. Разбиране на потребителски вход и тип данни стринг/Лекция/08. Разбиране на потребителски вход и тип данни стринг.md",
     "Assets/11.png",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.assets.cache",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/AdditionCalculator.csproj.nuget.dgspec.json",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/project.nuget.cache",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/project.assets.json",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/AdditionCalculator.csproj.nuget.g.targets",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/AdditionCalculator.csproj.nuget.g.props",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.AssemblyInfo.cs",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.AssemblyInfoInputs.cache",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig",
-    "Projects/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/refint",
     "Assets/10.png",
     "Assets/9.png",
     "Lectures/Day 1/1. Създаване на първи проект и Hello World/Лекция/01. Създаване на първи проект и Hello World.md",
@@ -219,8 +221,6 @@
     "Untitled.md",
     "Assets/6.png",
     "Assets/5.png",
-    "Assets/4.png",
-    "Assets/3.png",
     "Лекции/Ден 1/4. Единични коментари/Лекция/04. Единични коментари.md",
     "Лекции/Ден 1/5. Топ-ниво изявления - документация/Лекция/05. Топ-ниво изявления - документация.md",
     "Лекции/Ден 1/1. Създаване на първи проект и Hello World/Лекция/01. Създаване на първи проект и Hello World.md",
