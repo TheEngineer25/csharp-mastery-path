@@ -12,4 +12,6 @@ myFriendsName = "Viktor";
 
 Console.WriteLine(myFriendsName);
 
+string myFriendsName2 = "Kristian";
+
 Console.ReadKey();
